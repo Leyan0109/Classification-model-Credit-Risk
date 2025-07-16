@@ -1,4 +1,4 @@
-# 💳 Credit Risk Prediction Using Classification Models
+# 💳 Credit Risk Prediction 
 ## A Comparative Study of Classification Models and WOE-Based Feature Transformation
 
 This project focuses on predicting whether a client will experience **serious delinquency within the next two years** using classification models. The dataset was preprocessed to ensure high data quality, including imputation, outlier treatment, and transformation using **Weight of Evidence (WOE)** to enhance interpretability and model effectiveness—especially for logistic regression.
