@@ -46,7 +46,7 @@ Three machine learning models were evaluated to identify the best-performing app
 
 ## 📁 Repository Structure
 `credit-risk-prediction/`
-1. data/       # Cleaned and WOE-transformed datasets
+1. data/       # Raw dataset
 2. notebooks/  # Model training and evaluation (LR, RF, XGBoost)
 3. results/    # Evaluation metrics, ROC curves, confusion matrices, scorecard
 4. README.md   # Project overview
